@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\peter halasz\documents\visual studio 2015\projects\zadanie\zadanie\main.cpp(115): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  Zadanie.vcxproj -> C:\Users\Peter Halasz\documents\visual studio 2015\Projects\Zadanie\x64\Debug\Zadanie.exe
+  Zadanie.vcxproj -> C:\Users\Peter Halasz\documents\visual studio 2015\Projects\Zadanie\x64\Debug\Zadanie.pdb (Full PDB)
